@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="already_nhave_an_naccount">Already \nhave an \nAccount?</string>
+    <string name="todo2">TODO2</string>
+    <string name="use_other_methods">Use other Methods</string>
+    <string name="todo4">TODO4</string>
+    <string name="todo5">TODO5</string>
+    <string name="name">Name</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="helper_text">Name is required. Dont live it blank</string>
+    <string name="appbartitlefragment">AppBartitlefragment</string>
+    <string name="profile">Profile</string>
+    <string name="titlebar">Title</string>
+    <string name="username">Username</string>
+    <string name="wallpaper">WALLPAPER</string>
+    <string name="speech_now">Speech Now</string>
+    <string name="post">Post</string>
+    <string name="see_your_about_info">See your about info</string>
+    <string name="quotes">Quotes</string>
+    <string name="details">Details</string>
+</resources>
